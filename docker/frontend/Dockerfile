@@ -11,7 +11,6 @@ RUN deno cache build.ts
 ADD . .
 RUN deno task build
 
-
 # build nginx webserver
 FROM nginx:alpine
 
