@@ -9,6 +9,7 @@ export default ({ title, children, ...props }) => (
       <meta name="robots" content="index, follow" />
       <meta name="author" content="Chaos Computer Club e.V." />
       <meta name="publisher" content=" e.V." />
+      <meta name="description" content="Call for Stories - Show us your visions and utopias for the Chaos Community!" />
 
       <link rel="icon" sizes="32x32" href="/favicon/favicon-32x32.png" />
       <link rel="icon" sizes="16x16" href="/favicon/favicon-16x16.png" />
