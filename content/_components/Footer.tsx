@@ -19,5 +19,10 @@ export default ({ text }) => (
         </a>
       </p>
     </div>
+    <div class="col-auto">
+      <p>
+        <a rel="me" href="https://chaos.social/@callforstories">Mastodon @callforstories@chaos.social</a>
+      </p>
+    </div>
   </section>
 );
