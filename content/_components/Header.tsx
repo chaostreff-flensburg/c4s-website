@@ -4,7 +4,6 @@ export default ({ text }) => (
       <a href="#headline" class="active">{text.startpage}</a>
       <a href={text.header_apply_link}>{text.header_apply}</a>
       <a href="#faq">F.A.Q.</a>
-      <a href="/blog/page/1/">Blog</a>
     </nav>
   </section>
 );
