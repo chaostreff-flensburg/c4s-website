@@ -1,0 +1,36 @@
+---
+title: Dis_Abled Disruption Drabbles
+subtitle: 10 Autor*innen, 10 Utopien, 10 Zukunftsvisionen aus dis_abled Perspektive in genau 100 Worten.
+type: 10 × 100-Wort-Texte
+category: art
+authors: Lena Richter, C. F. Srebalus, Sarah Baumgart, Nora Bendzko, Jamie-Lee Campbell, Jenny Cazzola, Carole Jenny Holzmann, Tanja Kollodzieyski, Britta Redweik, Daniela Schreiter, Noah Stoffers
+cover: cover.png
+layout: layouts/art.vto
+---
+
+<p>10 Autor*innen<br>10 Utopien<br>10 Zukunftsvisionen aus dis_abled Perspektive</p>
+
+<h2>Credits</h2>
+
+<p>Organisiert und kuratiert von Lena Richter</p>
+<p>
+  Lena Richter (sie/ihr) ist Autorin, Lektorin und Übersetzerin, hält Workshops,
+  gibt das Magazin Queer*Welten mit heraus und bewegt sich an den Schnittstellen
+  von Phantastik, Marginalisierungserfahrungen und Utopie.
+</p>
+<p>Website: www.lenarichter.com, Social Media: @catrinity</p>
+
+<p>Illustration und Grafikdesign: C. F. Srebalus</p>
+<p>Website: www.cfsrebalus.de Social Media: @c.f.srebalus</p>
+
+<div id="boxes">
+  {{ for page of search.pages("category=ddd") }}
+  <div class="box">
+    <a href="{{ page.url }}">
+      <img src="{{ page.url }}/{{ page.illustration || "illustration.svg" }}" />
+      <h2>{{ page.title }}</h2>
+      <h3>{{ page.author }}</h3>
+    </a>
+  </div>
+  {{ /for }}
+</div>

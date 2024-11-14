@@ -1,24 +1,28 @@
-language_short.de: DE
-language_short.en: EN
-language.de: german
-language.en: englisch
-startpage.de: Startseite
-startpage.en: Home
-subtitle.de: Zeig uns deine Visionen und Utopien für die Chaos Community!
-subtitle.en: Show us your visions and utopias for the Chaos Community!
-subscribe_newsletter.de: Newsletter abonnieren
-subscribe_newsletter.en: Subscribe to newsletter
-footer_imprint.de: Impressum
-footer_imprint.en: imprint
-footer_privacy.de: Datenschutz
-footer_privacy.en: privacy
-footer_slogan.de: Ein Projekt des
-footer_slogan.en: a project of
-header_about_the_advisory_board.de: Über den Beirat
-header_about_the_advisory_board.en: About the Advisory Board
-header_about_the_advisory_board_link.de: "#ueber-den-beirat"
-header_about_the_advisory_board_link.en: "#about-the-advisory-board"
-header_apply.de: Bewerben
-header_apply.en: Apply
-header_apply_link.de: "#bewerben"
-header_apply_link.en: "#apply"
+layout: art.vto
+
+de:
+  language_short: DE
+  language: german
+  startpage: Startseite
+  subtitle: Zeig uns deine Visionen und Utopien für die Chaos Community!
+  subscribe_newsletter: Newsletter abonnieren
+  footer_imprint: Impressum
+  footer_privacy: Datenschutz
+  footer_slogan: Ein Projekt des
+  header_about_the_advisory_board: Über den Beirat
+  header_about_the_advisory_board_link: "#ueber-den-beirat"
+  header_apply: Bewerben
+  header_apply_link: "#bewerben"
+en:
+  language_short: EN
+  language: englisch
+  startpage: Home
+  subtitle: Show us your visions and utopias for the Chaos Community!
+  subscribe_newsletter: Subscribe to newsletter
+  footer_imprint: imprint
+  footer_privacy: privacy
+  footer_slogan: a project of
+  header_about_the_advisory_board: About the Advisory Board
+  header_about_the_advisory_board_link: "#about-the-advisory-board"
+  header_apply: Apply
+  header_apply_link: "#apply"

@@ -1,0 +1,24 @@
+---
+title: Call for Stories
+layout: layouts/main.vto
+cover: cover.png
+---
+
+<div class="intro">
+  <p>The Chaos Computer Club recently turned <strong>42 years old</strong>!</p>
+  <p>To celebrate, we put out a "Call for Stories", and invited artists to show us their positive ideas and visions for the future.</p>
+  <p>An advisory board selected 12 of the submissions, and granted them scholarships between 420 and 4200 EUR. Here are the results, presented at the 38C3</p>
+</div>
+
+<div id="boxes">
+  {{ for page of search.pages("category=art") }}
+  <div class="box">
+    <a href="{{ page.url }}">
+      <img src="{{ page.url }}/{{ page.cover }}" />
+      <h2>{{ page.title }}</h2>
+      <h3>{{ page.authors }}</h2>
+      <p><span class="badge">{{ page.type }}</span><br>{{ page.subtitle }}</p>
+    </a>
+  </div>
+  {{ /for }}
+</div>
