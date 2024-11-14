@@ -3,7 +3,9 @@ export default ({ text }) => (
     <div class="col-auto">
       <p>
         {text.footer_slogan}{" "}
-        <a href="https://ccc.de/" target="_blank">Chaos Computer Club e.V.</a>
+        <a href="https://ccc.de/" target="_blank">
+          Chaos Computer Club e.V.
+        </a>
       </p>
     </div>
     <div class="col-auto">
@@ -21,7 +23,9 @@ export default ({ text }) => (
     </div>
     <div class="col-auto">
       <p>
-        <a rel="me" href="https://chaos.social/@callforstories">Mastodon @callforstories@chaos.social</a>
+        <a rel="me" href="https://chaos.social/@callforstories">
+          Mastodon @callforstories@chaos.social
+        </a>
       </p>
     </div>
   </section>

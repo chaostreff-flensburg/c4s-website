@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": ["*.vto"],
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}

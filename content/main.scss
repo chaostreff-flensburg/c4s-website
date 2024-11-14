@@ -30,7 +30,7 @@ body {
 .layout {
   background-color: #eccdb3;
 }
-.card-body{
+.card-body {
   background-color: #fff0f0;
   color: black;
 }
@@ -50,9 +50,9 @@ body {
   }
 }
 a {
-  color: #28151E !important;
+  color: #28151e !important;
 }
-footer{
+footer {
   color: #363636;
 }
 
@@ -84,7 +84,7 @@ ul {
   a {
     color: $link-color !important;
     &:hover {
-      color: #4E2C37 !important;
+      color: #4e2c37 !important;
     }
   }
   p {
@@ -167,42 +167,42 @@ footer {
 /* montserrat-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
-  src: url('./fonts/montserrat-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("./fonts/montserrat-v26-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* montserrat-500 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
-  src: url('./fonts/montserrat-v26-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("./fonts/montserrat-v26-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* montserrat-700 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
-  src: url('./fonts/montserrat-v26-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("./fonts/montserrat-v26-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* montserrat-900 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 900;
-  src: url('./fonts/montserrat-v26-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("./fonts/montserrat-v26-latin-900.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-.gpn21-video{
+.gpn21-video {
   width: 100%;
   min-height: 560px;
 }
-a{
-  &.active{
+a {
+  &.active {
     color: #363636 !important;
     border: 1px solid #363636 !important;
     border-radius: 0.375rem;
@@ -249,7 +249,8 @@ main {
   }
 }
 
-header, main {
+header,
+main {
   margin: 0 3rem;
 }
 
@@ -294,7 +295,7 @@ footer {
   flex-wrap: wrap;
   gap: 2em 10em;
   justify-content: center;
-    font-weight: bold;
+  font-weight: bold;
   a {
     text-decoration: none;
     &:hover {

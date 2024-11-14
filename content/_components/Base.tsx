@@ -1,15 +1,16 @@
 export default ({ title, children, ...props }) => (
   <html lang="de">
     <head>
-      <title>
-        Call for Stories
-      </title>
+      <title>Call for Stories</title>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="robots" content="index, follow" />
       <meta name="author" content="Chaos Computer Club e.V." />
       <meta name="publisher" content=" e.V." />
-      <meta name="description" content="Call for Stories - Show us your visions and utopias for the Chaos Community!" />
+      <meta
+        name="description"
+        content="Call for Stories - Show us your visions and utopias for the Chaos Community!"
+      />
 
       <link rel="icon" sizes="32x32" href="/favicon/favicon-32x32.png" />
       <link rel="icon" sizes="16x16" href="/favicon/favicon-16x16.png" />
@@ -26,8 +27,6 @@ export default ({ title, children, ...props }) => (
       <link rel="stylesheet" href="/code.css" />
       <link rel="stylesheet" href="/main.css" />
     </head>
-    <body>
-      {children}
-    </body>
+    <body>{children}</body>
   </html>
 );
