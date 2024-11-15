@@ -61,6 +61,10 @@ body {
   margin: 0;
 }
 
+header, main {
+  max-width: 80em;
+}
+
 a {
   color: black;
 }
@@ -137,7 +141,8 @@ main {
 
 header,
 main {
-  margin: 0 3rem;
+  margin: 0 auto;
+  padding: 3em;
 }
 
 img#header {
@@ -164,6 +169,7 @@ img#header {
     img {
       height: 15em;
       width: 15em;
+      border-radius: 1em;
     }
     &:hover {
       transform: scale(1.05);
@@ -174,6 +180,9 @@ img#header {
       padding: 0.1em 0.2em;
       border-radius: 0.3em;
       color: white;
+    }
+    p {
+      line-height: 1.5em;
     }
   }
 }
