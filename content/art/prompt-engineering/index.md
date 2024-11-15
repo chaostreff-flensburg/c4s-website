@@ -12,6 +12,4 @@ de:
     medium: Kurzfilm
 ---
 
-TODO: description
-
 <video src="/{{ id }}/241006_Fiction_Part1.mp4" controls></video>

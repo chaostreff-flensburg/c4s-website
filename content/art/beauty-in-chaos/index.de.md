@@ -39,5 +39,5 @@ basiert auf der Belonging outside Belonging Engine von Avery Alder.
 
 ## Downloads
 
-- [Regelbuch version 0.9 (PDF)](/{{ id }}/Beauty_in_Chaos_Version_0_9.pdf)
+- [Regelbuch Version 0.9 (PDF)](/{{ id }}/Beauty_in_Chaos_Version_0_9.pdf)
 - Projekt-Webseite: <https://beauty-in-chaos.de>
