@@ -27,15 +27,14 @@
   </body>
 
   <footer>
-    <a href="https://ccc.de/" target="_blank">Chaos Computer Club e.V.</a>
+    <span>{{ project_of_string }} <a href="https://ccc.de/" target="_blank">Chaos Computer Club e.V.</a></span>
     <span
-      ><a href="https://www.ccc.de/de/imprint" target="_blank"> Impressum </a> &
-      <a href="https://www.ccc.de/de/datenschutz" target="_blank">
-        Datenschutz</a
-      ></span
+      ><a href="{{ imprint_url }}" target="_blank"> {{ imprint_string }} </a> &
+      <a href="{{ privacy_url }}" target="_blank">
+        {{ privacy_string }}</a></span
     >
     <a rel="me" href="https://chaos.social/@callforstories" target="_blank">
-      Mastodon @callforstories@chaos.social</a
+      Mastodon</a
     >
   </footer>
 </html>

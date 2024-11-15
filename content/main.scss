@@ -117,7 +117,7 @@ main {
   }
   .intro {
     p {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
     }
     margin-bottom: 5em;
   }
@@ -183,8 +183,8 @@ footer {
   flex-wrap: wrap;
   gap: 2em 10em;
   justify-content: center;
-  font-weight: bold;
   a {
+    font-weight: bold;
     text-decoration: none;
     &:hover {
       text-decoration: underline;

@@ -4,8 +4,8 @@ layout: layouts/main.vto
 
 <h1>{{ title }}</h1>
 
-<h2>by {{ authors }}</h2>
-<h3>License: {{ license || "(still missing)" }}</h3>
+<h2>{{ by_string }} {{ authors }}</h2>
+<h3>{{ license_string }}: {{ license || "(still missing)" }}</h3>
 
 <p><em>{{ subtitle }}</em></p>
 

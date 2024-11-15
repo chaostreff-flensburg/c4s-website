@@ -1,0 +1,15 @@
+by_string: von
+license_string: Lizenz
+project_of_string: Ein Projekt des
+imprint_string: Impressum
+privacy_string: Datenschutz
+imprint_url: https://www.ccc.de/de/imprint
+privacy_url: https://www.ccc.de/de/datenschutz
+en:
+  by_string: by
+  license_string: License
+  project_of_string: A project of the
+  imprint_string: Imprint
+  privacy_string: Privacy
+  imprint_url: https://www.ccc.de/en/imprint
+  privacy_url: https://www.ccc.de/en/datenschutz

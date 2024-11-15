@@ -20,7 +20,7 @@ layout: layouts/main.vto
 
   <div style="margin: 2em">
     <h1>{{ title }}</h1>
-    <h2>by {{ author }}</h2>
+    <h2>{{ by_string }} {{ author }}</h2>
 
     <audio src="{{ url.replaceAll("/de/", "/") }}audio.mp3" controls></audio>
 
