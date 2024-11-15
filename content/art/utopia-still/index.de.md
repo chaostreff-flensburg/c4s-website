@@ -1,8 +1,7 @@
 ---
 title: Utopia Still
 subtitle: Schau in eine positive, in der Zeit eingefrorene Zukunftsvision, in der Autos, die Klimakrise und der Kapitalismus nur noch eine ferne Erinnerung sind.
-type: 3D-Diorama
-category: art
+medium: 3D-Diorama
 authors: Jonas Laugs
 license: CC BY 4.0
 lang: de

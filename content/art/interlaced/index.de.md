@@ -1,8 +1,7 @@
 ---
 title: interlaced
 subtitle: Benutzt bla
-type: Generative art
-category: art
+medium: Generative art
 authors: bleeptrack
 lang: de
 id: interlaced

@@ -1,8 +1,7 @@
 ---
 title: Beauty in Chaos
 subtitle: Spielende entwickeln gemeinsam utopische Visionen und Hoffnungen, um technische Dystopien in Utopien zu verwandeln.
-type: Erzählrollenspiel
-category: art
+medium: Erzählrollenspiel
 authors: smettbo & naerrin
 license: CC BY-SA 4.0
 lang: [original, de]

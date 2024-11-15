@@ -5,7 +5,7 @@
       <img src="{{ page.id ? `/${page.id}/` : page.url }}{{ page.cover || "cover.png" }}" />
       <h2>{{ page.title }}</h2>
       <h3>{{ page.authors }}</h3>
-      <p><span class="badge">{{ page.type }}</span><br />{{ page.subtitle }}</p>
+      <p><span class="badge">{{ page.medium }}</span><br />{{ page.subtitle }}</p>
     </a>
   </div>
   {{ /for }}

@@ -1,10 +1,10 @@
 ---
 title: Dis_Abled Disruption Drabbles
 subtitle: 10 Autor*innen, 10 Utopien, 10 Zukunftsvisionen aus dis_abled Perspektive in genau 100 Worten.
-type: 10 × 100-Wort-Texte
-category: art
+medium: 10 × 100-Wort-Texte
 authors: Lena Richter, C. F. Srebalus, Sarah Baumgart, Nora Bendzko, Jamie-Lee Campbell, Jenny Cazzola, Carole Jenny Holzmann, Tanja Kollodzieyski, Britta Redweik, Daniela Schreiter, Noah Stoffers
 layout: layouts/art.vto
+category: art
 lang: [original, de]
 id: ddd
 url: /ddd/
@@ -30,7 +30,7 @@ layoutEngine: vto
 <p>Website: www.cfsrebalus.de Social Media: @c.f.srebalus</p>
 
 <div id="boxes">
-  {{ for page of search.pages("category=ddd") }}
+  {{ for page of search.pages("category=ddd lang=original") }}
   <div class="box">
     <a href="{{ page.url }}">
       <img src="{{ page.url }}/{{ page.illustration || 'illustration.svg' }}" />

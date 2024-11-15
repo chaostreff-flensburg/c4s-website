@@ -1,8 +1,7 @@
 ---
 title: interlaced
 subtitle: Uses interwoven patterns of plants and cables to playfully demonstrate that technology and nature can coexist in harmony.
-type: Generative art
-category: art
+medium: Generative art
 authors: bleeptrack
 id: interlaced
 url: /interlaced/

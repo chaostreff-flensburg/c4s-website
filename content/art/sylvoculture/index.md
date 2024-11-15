@@ -1,15 +1,13 @@
 ---
 title: Sylvoculture
 subtitle: TODO
-type: Short film
-category: art
+medium: Short film
 authors: Brendan Howell, Sonja Nilsson
 cover: cover.jpg
 id: sylvoculture
-templateEngine: [vto, md]
 lang: [original, en, de]
 de:
-    type: Kurzfilm
+    medium: Kurzfilm
 ---
 
 TODO: pamphlet content

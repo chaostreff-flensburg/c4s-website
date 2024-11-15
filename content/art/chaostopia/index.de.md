@@ -1,8 +1,7 @@
 ---
 title: Chaostopia 2042
 subtitle: Eine utopische Novella über zivilen Widerstand in einer Welt zwischen Klimakatastrophe und dem Willen zu positiver Gesellschaftsänderung.
-type: Novella
-category: art
+medium: Novella
 authors: Klaudia 'jinxx' Zotzmann-Koch
 license: CC BY-SA 4.0
 lang: [original, de]

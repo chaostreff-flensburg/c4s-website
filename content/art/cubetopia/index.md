@@ -1,16 +1,14 @@
 ---
 title: Cubetopia
-category: art
 authors: Eva Infeld, Brett Alexander Preston, Davide Di Stasio, Natalia Vish, Jacek Wesołowski
 license: CC BY-SA 4.0
 lang: [original, en, de]
-templateEngine: [vto, md]
 id: cubetopia
 subtitle: Build your own perfect future, one decision at a time.
-type: Narrative art video game
+medium: Narrative art video game
 de:
     subtitle: Erschaffe durch deine Entscheidungen deine eigene perfekte Zukunft.
-    type: Narratives künstlerisches Computerspiel
+    medium: Narratives künstlerisches Computerspiel
 ---
 
 ## Download

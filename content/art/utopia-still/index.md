@@ -1,13 +1,11 @@
 ---
 title: Utopia Still
 subtitle: Glimpse into a positive vision of the future frozen in time, where cars, the climate crisis and capitalism are only a distant memory.
-type: 3D diorama
-category: art
+medium: 3D diorama
 authors: Jonas Laugs
 license: CC BY 4.0
 lang: [original, en]
 id: utopia-still
-templateEngine: [vto, md]
 ---
 
 ## Description
