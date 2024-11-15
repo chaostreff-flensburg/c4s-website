@@ -5,15 +5,14 @@ category: art
 authors: Rosemary Lee
 cover: cover.jpg
 license: CC BY-SA 4.0
-lang: [en, de]
+lang: [original, en, de]
 id: rupture-remedy
 templateEngine: [vto, md]
+subtitle: A poetic apology for the chaotic unfairness of the world.
+intro: "Rupture/Remedy” addresses the viewer with a poetic apology for the chaotic unfairness of the world. Exploring the healing power of giving ourselves the time, space, and license to appreciate how difficult it can be to face the reality we exist within, the work seeks to bear witness to a growing sense of collective distress, irresolution, and futility. Working with appropriated video material, this piece considers how we might rethink our stance towards damage and repair. It presents a playfully utopian vision for the world, looking at how we can find hope, care, and beauty within the chaos."
 de:
   subtitle: "(Dieser Untertitel ist nur auf Englisch verfügbar)"
   intro: "(Diese Einleitung ist nur auf Englisch verfügbar)"
-en:
-  subtitle: A poetic apology for the chaotic unfairness of the world.
-  intro: "Rupture/Remedy” addresses the viewer with a poetic apology for the chaotic unfairness of the world. Exploring the healing power of giving ourselves the time, space, and license to appreciate how difficult it can be to face the reality we exist within, the work seeks to bear witness to a growing sense of collective distress, irresolution, and futility. Working with appropriated video material, this piece considers how we might rethink our stance towards damage and repair. It presents a playfully utopian vision for the world, looking at how we can find hope, care, and beauty within the chaos."
 ---
 
 {{ intro }}

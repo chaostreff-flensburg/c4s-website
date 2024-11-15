@@ -4,7 +4,7 @@ subtitle: Eine Reise in das utopische Jahr 2242! Roha, Tuxah und die Schrotthän
 type: Hörspiel
 category: art
 authors: Mascha Schädlich, TODO
-lang: de
+lang: [original, de]
 templateEngine: [vto, md]
 id: unwahrscheinliche-reise
 url: /improbable-journey/

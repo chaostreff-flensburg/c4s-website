@@ -5,7 +5,7 @@ type: 3D diorama
 category: art
 authors: Jonas Laugs
 license: CC BY 4.0
-lang: en
+lang: [original, en]
 id: utopia-still
 templateEngine: [vto, md]
 ---

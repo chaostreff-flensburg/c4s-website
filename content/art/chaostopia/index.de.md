@@ -5,7 +5,7 @@ type: Novella
 category: art
 authors: Klaudia 'jinxx' Zotzmann-Koch
 license: CC BY-SA 4.0
-lang: de
+lang: [original, de]
 id: chaostopia
 url: /chaostopia/
 ---

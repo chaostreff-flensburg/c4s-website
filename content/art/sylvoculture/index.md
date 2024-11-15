@@ -7,7 +7,7 @@ authors: Brendan Howell, Sonja Nilsson
 cover: cover.jpg
 id: sylvoculture
 templateEngine: [vto, md]
-lang: [en, de]
+lang: [original, en, de]
 de:
     type: Kurzfilm
 ---

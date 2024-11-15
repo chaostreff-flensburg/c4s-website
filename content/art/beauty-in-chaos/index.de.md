@@ -5,7 +5,7 @@ type: Erzählrollenspiel
 category: art
 authors: smettbo & naerrin
 license: CC BY-SA 4.0
-lang: de
+lang: [original, de]
 id: beauty-in-chaos
 url: /beauty-in-chaos/
 ---

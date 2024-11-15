@@ -6,6 +6,7 @@ category: art
 authors: bleeptrack
 id: interlaced
 url: /interlaced/
+lang: [original, en]
 ---
 
 <https://interlaced.bleeptrack.de>

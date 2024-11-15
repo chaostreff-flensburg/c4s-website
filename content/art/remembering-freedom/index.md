@@ -5,7 +5,7 @@ type: Essay
 category: art
 authors: John McNeil
 license: CC BY-SA 4.0
-lang: [en, de]
+lang: [original, en, de]
 templateEngine: [vto, md]
 de:
     subtitle: Ein Essay über die ersten 558 Jahre des Internets.

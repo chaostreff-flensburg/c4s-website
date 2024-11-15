@@ -18,8 +18,8 @@ const bigFileServer = "https://files.blinry.org/cfs";
 site
   .use(
     multilanguage({
-      languages: ["en", "de"],
-      defaultLanguage: "en",
+      languages: ["original", "en", "de"],
+      defaultLanguage: "original",
     }),
   )
   .use(jsx_preact())
