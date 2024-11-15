@@ -17,7 +17,7 @@ eigenen Auftauchens in der Utopie zu kämpfen hat.
 Wie sieht das utopische Jahr 2242 aus? Arbeitet noch irgendwer? Und welche
 Rolle findet jemand aus der Vergangenheit dort?
 
-<audio src="Hörspiel_Die unwahrscheinliche Reise.mp3" controls></audio>
+<audio src="/{{ id }}/Hörspiel_Die unwahrscheinliche Reise.mp3" controls></audio>
 
 ## Skriptfassung
 

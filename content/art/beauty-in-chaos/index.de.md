@@ -35,9 +35,9 @@ darum, in ein Gefühl vom Chaos einzutauchen und Spaß daran zu haben, die Dinge
 auf den Kopf zu stellen. Das Rollenspiel ist für 3-6 Spielende ausgelegt und
 basiert auf der Belonging outside Belonging Engine von Avery Alder.
 
-<object data="/{{ id }}/Beauty_in_Chaos_Version_0_9.pdf" type="application/pdf" width="100%" height="800" alt text TODO</object>
+<object data="/{{ id }}/Beauty_in_Chaos_Version_0_9.pdf" type="application/pdf" width="100%" height="800">alt text TODO</object>
 
-<h2>Downloads</h2>
+## Downloads
 
 - [Regelbuch version 0.9 (PDF)](/{{ id }}/Beauty_in_Chaos_Version_0_9.pdf)
 - Projekt-Webseite: <https://beauty-in-chaos.de>

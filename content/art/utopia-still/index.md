@@ -14,7 +14,7 @@ This project is part of [an exhibition](https://42.ccc.de/) for the 38c3, the co
 So I wanted to explore a vision of living in a city that is a bit more in harmony with nature and the people (and animals, insects etc). I love nature a lot but I do live in the city and I think humanity will largery live in cities in the future (there's just so many of us ^ _ ^), so is there a way we can all exist together?
 I knew I could not animate characters in the amount of time we had, so I decided to do a still(frame), a moment frozen in time of a positive future, a kind of 3d-diorama you can explore. If I had an infinite amount of time (and was actually able to write code + __ +) I'd love to have been able to switch between a dystopic city (basically what we have now in most cities, cars everywhere, very little nature or places for people to come together) but we decided that I should focus on the utopia – since as I said they're very rare), so I only implemented little climpses of a dystopic past that was overcome here and there in my work.
 
-<video src="UtopiaStill-06-Video-Flythrough-01.mp4" controls></video>
+<video src="/{{ id }}/UtopiaStill-06-Video-Flythrough-01.mp4" controls></video>
 
 ## Downloads
 

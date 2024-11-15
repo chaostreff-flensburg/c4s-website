@@ -32,7 +32,7 @@ layoutEngine: vto
 <div id="boxes">
   {{ for page of search.pages("category=ddd lang=original") }}
   <div class="box">
-    <a href="{{ page.url }}">
+    <a href="{{ search.page(`id=${page.id} lang=${lang}`).url }}">
       <img src="{{ page.url }}/{{ page.illustration || 'illustration.svg' }}" />
       <h2>{{ page.title }}</h2>
       <h3>{{ page.author }}</h3>
