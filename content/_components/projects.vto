@@ -1,0 +1,12 @@
+<div id="boxes">
+  {{ for page of search.pages(`category=art lang=${lang}`) }}
+  <div class="box">
+    <a href="{{ page.url }}">
+      <img src="{{ page.id ? `/${page.id}/` : page.url }}{{ page.cover || "cover.png" }}" />
+      <h2>{{ page.title }}</h2>
+      <h3>{{ page.authors }}</h3>
+      <p><span class="badge">{{ page.type }}</span><br />{{ page.subtitle }}</p>
+    </a>
+  </div>
+  {{ /for }}
+</div>

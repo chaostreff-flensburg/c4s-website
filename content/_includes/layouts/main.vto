@@ -9,7 +9,18 @@
 
   <body>
     <header>
-      <a href="/">Call for Stories</a>
+      {{ set index = search.page('id=index lang=' + lang) }}
+      <h1><a href="{{ index.url }}" >Call for Stories</a></h1>
+
+      <ul class="languages">
+      {{ for alt of alternates }}
+        <li>
+          <a href="{{ alt.url }}" {{ if alt.lang == lang }}aria-current="page"{{ /if }}>
+            {{ alt.lang }}
+          </a>
+        </li>
+      {{ /for }}
+      </ul>
     </header>
     <main>{{ content }}</main>
   </body>

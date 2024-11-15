@@ -4,8 +4,10 @@ subtitle: Glimpse into a positive vision of the future frozen in time, where car
 type: 3D diorama
 category: art
 authors: Jonas Laugs
-cover: cover.png
 license: CC BY 4.0
+lang: en
+id: utopia-still
+templateEngine: [vto, md]
 ---
 
 ## Description
@@ -18,8 +20,8 @@ I knew I could not animate characters in the amount of time we had, so I decided
 
 ## Downloads
 
-- Download the executable: [Linux](UtopiaStill-0.2-241004-01-Linux.x86_64.zip)/[macOS](UtopiaStill-0.2-241004-01-MacOS.zip)/[Windows](UtopiaStill-0.2-241004-01-Win.zip)
-- [Source code](UtopiaStill-Source.zip)
+- Download the executable: [Linux](/{{ id }}/UtopiaStill-0.2-241004-01-Linux.x86_64.zip)/[macOS](/{{ id }}/UtopiaStill-0.2-241004-01-MacOS.zip)/[Windows](/{{ id }}/UtopiaStill-0.2-241004-01-Win.zip)
+- [Source code](/{{ id }}/UtopiaStill-Source.zip)
 
 ## Instructions
 
