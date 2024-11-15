@@ -30,7 +30,7 @@ layoutEngine: vto
 <p>Website: www.cfsrebalus.de Social Media: @c.f.srebalus</p>
 
 <div id="boxes">
-  {{ for page of search.pages("category=ddd lang=original") }}
+  {{ for page of search.pages("category=ddd lang=original", "id") }}
   <div class="box">
     <a href="{{ search.page(`id=${page.id} lang=${lang}`).url }}">
       <img src="{{ page.url }}/{{ page.illustration || 'illustration.svg' }}" />

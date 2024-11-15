@@ -1,5 +1,5 @@
 <div id="boxes">
-  {{ for page of search.pages(`category=art lang=${lang}`) }}
+  {{ for page of search.pages(`category=art lang=${lang}`, "id") }}
   <div class="box">
     <a href="{{ page.url }}">
       <img src="{{ page.id ? `/${page.id}/` : page.url }}{{ page.cover || "cover.png" }}" />
