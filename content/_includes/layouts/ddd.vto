@@ -2,32 +2,40 @@
 layout: layouts/main.vto
 ---
 
-<a href="..">DDD</a>
-
 <div
   style="
     background-color: #fef2e2;
-    padding: 2em;
     position: relative;
     max-width: 80em;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
   "
 >
-  <h1>{{ title }}</h1>
-  <h2>by {{ author }}</h2>
+  <img
+    src="/ddd/assets/corner.svg"
+    id="corner"
+    style="position: absolute; top: 0; right: 0"
+  />
 
-  <audio src="{{ url.replaceAll("/de/", "/") }}audio.mp3" controls></audio>
+  <div style="margin: 2em">
+    <h1>{{ title }}</h1>
+    <h2>by {{ author }}</h2>
 
-  <div style="display: flex">
-    <div>{{ content }}</div>
+    <audio src="{{ url.replaceAll("/de/", "/") }}audio.mp3" controls></audio>
 
-    {{ if !illustration}}
-    <img
-      src="{{ url.replaceAll("/de/", "/") }}./illustration.svg"
-      alt="{{ alt }}"
-      title="{{ alt }}"
-      style="float: right"
-    />
-    {{ /if }}
+    <div id="content" style="display: flex">
+      <div>{{ content }}</div>
+
+      {{ if !illustration}}
+      <img
+        src="{{ url.replaceAll("/de/", "/") }}./illustration.svg"
+        alt="{{ alt }}"
+        title="{{ alt }}"
+        style="float: right"
+      />
+      {{ /if }}
+    </div>
   </div>
 
   <div
@@ -37,9 +45,17 @@ layout: layouts/main.vto
       height: 66px;
     "
   ></div>
-
-  <img
-    src="/ddd/assets/corner.svg"
-    style="position: absolute; top: 0; right: 0"
-  />
 </div>
+
+<p>↩️ Zurück zu den <a href="..">Dis_Abled Disruption Drabbles</a></p>
+
+<style>
+    @media (max-width: 1000px) {
+      #content {
+        flex-direction: column;
+      }
+      #corner {
+        display: none;
+      }
+    }
+</style>

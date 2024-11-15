@@ -71,17 +71,22 @@ p, ul, h2, h3, h4, h5 {
 
 header {
   padding: 3em 0 5em 0;
-  h1 a {
+  h1 {
     font-size: 5rem;
+    line-height: 1em;
     font-weight: bold;
-    text-decoration: none;
-    &:hover {
-      text-decoration: underline;
+    a {
+      line-height: 1em;
+      letter-spacing: -0.03em;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
   ul.languages {
     position: absolute;
-    top: 0;
+    top: 0.5em;
     right: 0;
     list-style-type: none;
     display: flex;
@@ -102,8 +107,13 @@ header {
 }
 
 main {
+  h1, h2, h3 {
+    line-height: 1em;
+  }
+
   h1 {
     font-size: 3rem;
+    margin-bottom: 0.5em;
   }
   .intro {
     p {
@@ -138,15 +148,19 @@ img#header {
   gap: 3em;
 
   .box {
-    width: 20em;
+    width: 15em;
     transition: transform 0.2s;
+    h2, h3 {
+      margin-top: 0.5em;
+      line-height: 1em;
+    }
     a {
       text-decoration: none;
       display: inline-block;
     }
     img {
-      height: 20em;
-      width: 20em;
+      height: 15em;
+      width: 15em;
     }
     &:hover {
       transform: scale(1.05);
