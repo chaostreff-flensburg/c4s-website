@@ -61,8 +61,8 @@ site
     `${bigFileServer}/UtopiaStill-0.2-241004-01-MacOS.zip`,
   )
   .remoteFile(
-    "prompt-engineering/241006_Fiction_Part1.mp4",
-    `${bigFileServer}/241006_Fiction_Part1.mp4`,
+    "prompt-engineering/241127_PROMPT_ENGINEERING_ENGLISH_SUB_FINAL.mp4",
+    `${bigFileServer}/241127_PROMPT_ENGINEERING_ENGLISH_SUB_FINAL.mp4`,
   )
   .remoteFile(
     "utopia-still/UtopiaStill-0.2-241004-01-Win.zip",
