@@ -9,6 +9,7 @@ medium: Narrative art video game
 de:
     subtitle: Erschaffe durch deine Entscheidungen deine eigene perfekte Zukunft.
     medium: Narratives künstlerisches Computerspiel
+cover: cover.jpg
 ---
 
 ## Download
