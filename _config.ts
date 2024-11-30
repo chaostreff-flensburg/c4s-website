@@ -49,7 +49,7 @@ site
     `${bigFileServer}/UtopiaStill-Source.zip`,
   )
   .remoteFile(
-    "sylvoculture/TheGreatRewilding_1080_5oct2024.mp4",
+    "the-great-rewilding/TheGreatRewilding_1080_5oct2024.mp4",
     `${bigFileServer}/TheGreatRewilding_1080_5oct2024.mp4`,
   )
   .remoteFile(
