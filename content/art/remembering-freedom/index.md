@@ -8,7 +8,10 @@ lang: [original, en, de]
 de:
     subtitle: Ein Essay über die ersten 558 Jahre des Internets.
 id: remembering-freedom
+cover: cover.jpg
 ---
+
+Cover image by [Kat Aymeloglu](https://www.kataymeloglu.com).
 
 <object data="/{{ id }}/Remembering Freedom.pdf" type="application/pdf" width="100%" height="800">alt text TODO</object>
 
