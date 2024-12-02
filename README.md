@@ -4,7 +4,9 @@
 
 Repo of the Call for Stories website. [Live Version](https://42.ccc.de/). Built with [Lume](https://lume.land/) on the basis of [Deno](https://deno.com).
 
-## Framework Setup
+## Setup
+
+Install [Deno 2](https://deno.com), and run one of the following commands.
 
 Note: On first build, Lume will need to download a couple of GB of static media files. Please be patient. :)
 
@@ -23,6 +25,12 @@ deno task build
 ```yaml
 docker-compose -p c4s up -d
 ```
+
+## Project structure
+
+The artworks and their descriptions are located in `content/art`.
+
+For the multi-lingual versions, there is often an `index.de.md` file with the German content, and an `index.md` with the English content.
 
 ---
 
