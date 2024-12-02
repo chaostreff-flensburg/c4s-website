@@ -2,6 +2,8 @@
 title: Künstlerische Intelligenz
 author: C. F. Srebalus
 alt: Eine Illustration in orange. Sie zeigt zwei Hände, die aneinander gelegt sind. Die rechte Hand ist anatomisch menschlich gezeichnet, die linke ähnelt einer Gliederpuppe. Dort, wo sich die Hände treffen, befindet sich eine Linie, die Ausschläge abbildet, wie die im Text erwähnten Schmerzkurven.
+id: ddd/kuenstlerische-intelligenz
+url: /ddd/kuenstlerische-intelligenz/
 ---
 
 Graphitgraue Linien auf Papier formen Finger. Finger sind schwierig. Erst recht, wenn die eigenen oft steif werden. Aber ich erlaube keiner KI, mir das zu nehmen!

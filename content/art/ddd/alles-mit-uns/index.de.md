@@ -2,6 +2,8 @@
 title: Alles mit uns
 author: Tanja Kollodzieyski
 alt: Eine Illustration in rot. Sie zeigt ein Kleid auf einem Kleiderbügel, das, wie im Text erwähnt, am Kragen die Farben der Disability-Flag enthält.
+id: ddd/alles-mit-uns
+url: /ddd/alles-mit-uns/
 ---
 
 Es klopfte an der Tür. Divana musste nicht auf die Tür-Drohne schauen, die augenblicklich um sie herum summte. Jahrzehnte hatte sie auf diesen Tag hingearbeitet, aber noch war sie nicht so weit.

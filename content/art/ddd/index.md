@@ -7,6 +7,20 @@ layout: layouts/art.vto
 category: art
 lang: en
 id: ddd
+url: /ddd/
+layoutEngine: [vto, md]
 ---
 
-(This content is only available in German.)
+{{ comp.ddd({lang}) }}
+
+## Organized and curated by Lena Richter
+
+Lena Richter (she/her) is an author, editor and translator, holds workshops,
+co-edits the magazine Queer*Welten and works at the intersection of fantasy,
+experiences of marginalization and utopia.
+
+Website: <https://lenarichter.com>, social media: @catrinity
+
+## Illustration and graphic design: C. F. Srebalus
+
+Website: <https://cfsrebalus.de> Social media: @c.f.srebalus

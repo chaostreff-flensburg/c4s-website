@@ -2,6 +2,8 @@
 title: Aussicht 2050
 author: Sarah Baumgart
 alt: Eine Illustration in rot. Sie zeigt einen Rollstuhl-Joystick. Auf einer der Schaltflächen steht das Wort „Zukunft“.
+id: ddd/aussicht-2050
+url: /ddd/aussicht-2050/
 ---
 
 Wir sitzen auf dem begrünten Dach. Die Luft riecht nach Sommer. Jo hat den Code des Fahrstuhls gehackt. „Damit du die Aussicht für uns beide genießen kannst.“

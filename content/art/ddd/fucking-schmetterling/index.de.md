@@ -2,6 +2,8 @@
 title: Fucking Schmetterling
 author: Sarah Baumgart
 alt: Eine grau gezeichnete Blüte, von der gerade ein blau gezeichneter Schmetterling Nektar trinkt.
+id: ddd/fucking-schmetterling
+url: /ddd/fucking-schmetterling/
 ---
 
 ![Text und Überschrift sind als reiner Text für Screenreader nicht gut zu erfassen, da sie verschiedene mathematische Formeln, Durchstreichungen und Grafikelemente beinhalten. Es gibt eine Audio-Fassung, in der Jamie-Lee den Text und die Formeln darin erklärt. Ihr findet ihn ebenfalls auf dieser Website.](fucking-schmetterling.svg)

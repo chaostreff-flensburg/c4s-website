@@ -2,6 +2,8 @@
 title: Wie Freiheit schmeckt
 author: Britta Redweik
 alt: Eine Illustration in grün, die einen ganzen Apfel und daneben einen schon geschnittene Apfelspalte zeigt.
+id: ddd/wie-freiheit-schmeckt/
+url: /ddd/wie-freiheit-schmeckt/
 ---
 
 Die Quest: Einkaufen.

@@ -22,14 +22,16 @@ layout: layouts/main.vto
     <h1>{{ title }}</h1>
     <h2>{{ by_string }} {{ author }}</h2>
 
-    <audio src="{{ url.replaceAll("/de/", "/") }}audio.mp3" controls></audio>
+    {{ if lang != "en" }}
+    <audio src="/{{ id }}/audio.mp3" controls></audio>
+    {{ /if }}
 
     <div id="content" style="display: flex">
       <div>{{ content }}</div>
 
       {{ if !illustration}}
       <img
-        src="{{ url.replaceAll("/de/", "/") }}./illustration.svg"
+        src="/{{ id }}/illustration.svg"
         alt="{{ alt }}"
         title="{{ alt }}"
         style="float: right"
@@ -47,15 +49,19 @@ layout: layouts/main.vto
   ></div>
 </div>
 
+{{ if lang == "en" }}
+<p>↩️ Back to the <a href="..">Dis_Abled Disruption Drabbles</a></p>
+{{ else }}
 <p>↩️ Zurück zu den <a href="..">Dis_Abled Disruption Drabbles</a></p>
+{{ /if }}
 
 <style>
-    @media (max-width: 1000px) {
-      #content {
-        flex-direction: column;
-      }
-      #corner {
-        display: none;
-      }
+  @media (max-width: 1000px) {
+    #content {
+      flex-direction: column;
     }
+    #corner {
+      display: none;
+    }
+  }
 </style>

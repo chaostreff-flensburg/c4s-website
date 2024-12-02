@@ -2,6 +2,8 @@
 title: Pastelltage
 author: Noah Stoffers
 alt: Eine Illustration in lila, die einen Textmarker zeigt. Die Spitze des Stiftes ist zartgelb.
+id: ddd/pastelltage
+url: /ddd/pastelltage/
 ---
 
 Pfirsichfarben der wattige, dumpfe Schmerz. Altrosa der Punkt, an dem ich die erste Dosis abwäge. In Abstufungen von Lila der Tag, an dem ich sie nehme.

@@ -2,6 +2,8 @@
 title: Agents of CARE
 author: Jenny Cazzola
 alt: Eine Illustration in grün. Sie zeigt einen Zettel, wie er für Aushänge verwendet wird, mit vorgefertigten Streifen unten zum Abreißen. Die meisten der Abreißstreifen sind schon fort. Auf dem Hauptteil des Aushangs sieht man die Worte „We want you!“, darüber einen Hut, der an Uncle Sam erinnert, mit einem Stern drauf. Den Hut umspannt ein Band in den Farben der Disability-Flagge. 
+id: ddd/agents-of-care
+url: /ddd/agents-of-care/
 ---
 
 We want you!
