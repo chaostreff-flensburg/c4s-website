@@ -3,7 +3,7 @@ title: The Taste of Freedom
 author: Britta Redweik
 alt: An illustration, in green, showing a whole apple and, next to it, an already cut apple slice. 
 id: ddd/wie-freiheit-schmeckt/
-url: /ddd/the-taste-offreedom/
+url: /ddd/the-taste-of-freedom/
 lang: en
 ---
 
