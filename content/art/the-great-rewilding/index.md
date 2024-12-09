@@ -3,6 +3,7 @@ title: The Great Rewilding
 subtitle: A child of a future civilization describes how humanity transitioned from a technological, denatured society to a holistic one, by connecting with plants and fungi.
 medium: Short film
 authors: Brendan Howell, Sonja Nilsson
+license: CC BY-SA 4.0
 cover: cover.jpg
 id: the-great-rewilding
 lang: [original, en, de]
