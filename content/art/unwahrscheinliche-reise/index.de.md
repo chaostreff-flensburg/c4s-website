@@ -2,7 +2,8 @@
 title: Eine unwahrscheinliche Reise
 subtitle: Eine Reise in das utopische Jahr 2242! Roha, Tuxah und die Schrotthändlerin begleiten einen Besucher, der mit der Unwahrscheinlichkeit seines eigenen Auftauchens in der Utopie zu kämpfen hat.
 medium: Hörspiel
-authors: Mascha Schädlich, TODO
+authors: Mascha Schädlich, Björn Rzymann, Markus Saborowski
+license: CC BY-SA 4.0
 lang: [original, de]
 id: unwahrscheinliche-reise
 url: /improbable-journey/
