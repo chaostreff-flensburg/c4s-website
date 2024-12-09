@@ -12,11 +12,15 @@ de:
 cover: cover.jpg
 ---
 
+## Trailer
+
+<iframe width="855" height="481" src="https://www.youtube.com/embed/tXytOYlsuRc" title="Cubetopia Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Download
 
-- [Linux](/{{ id }}/Cubetopia_1.03_Linux.zip)
-- [macOS](/{{ id }}/Cubetopia_1.03_Mac.zip)
-- [Windows](/{{ id }}/Cubetopia_1.03_Win.zip)
+- [Linux](/{{ id }}/Cubetopia_1.04_Linux.zip)
+- [macOS](/{{ id }}/Cubetopia_1.04_Mac.zip)
+- [Windows](/{{ id }}/Cubetopia_1.04_Win.zip)
 
 ## Credits
 

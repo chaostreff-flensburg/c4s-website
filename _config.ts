@@ -29,16 +29,16 @@ site
   //.copy("main.js")
   .copy([".jpg", ".png", ".pdf", ".svg", ".mp3", ".zip", ".mp4"])
   .remoteFile(
-    "cubetopia/Cubetopia_1.03_Mac.zip",
-    `${bigFileServer}/Cubetopia_1.03_Mac.zip`,
+    "cubetopia/Cubetopia_1.04_Mac.zip",
+    `${bigFileServer}/Cubetopia_1.04_Mac.zip`,
   )
   .remoteFile(
-    "cubetopia/Cubetopia_1.03_Linux.zip",
-    `${bigFileServer}/Cubetopia_1.03_Linux.zip`,
+    "cubetopia/Cubetopia_1.04_Linux.zip",
+    `${bigFileServer}/Cubetopia_1.04_Linux.zip`,
   )
   .remoteFile(
-    "cubetopia/Cubetopia_1.03_Win.zip",
-    `${bigFileServer}/Cubetopia_1.03_Win.zip`,
+    "cubetopia/Cubetopia_1.04_Win.zip",
+    `${bigFileServer}/Cubetopia_1.04_Win.zip`,
   )
   .remoteFile(
     "rupture-remedy/Lee, Rupture, Remedy.mp4",
