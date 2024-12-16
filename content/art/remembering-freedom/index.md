@@ -14,7 +14,7 @@ cover: cover.jpg
 
 Cover image by [Kat Aymeloglu](https://www.kataymeloglu.com).
 
-<object data="/{{ id }}/Remembering Freedom.pdf" type="application/pdf" width="100%" height="800">alt text TODO</object>
+<object data="/{{ id }}/Remembering Freedom.pdf" type="application/pdf" width="100%" height="800"></object>
 
 ## Downloads
 

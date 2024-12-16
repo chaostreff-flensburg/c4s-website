@@ -35,4 +35,4 @@ cover: cover.jpg
 
 ## Pamphlet
 
-<object data="/{{ id }}/cubetopia references and metaphors.pdf" type="application/pdf" width="100%" height="800">alt text TODO</object>
+<object data="/{{ id }}/cubetopia references and metaphors.pdf" type="application/pdf" width="100%" height="800"></object>

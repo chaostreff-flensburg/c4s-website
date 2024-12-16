@@ -37,11 +37,11 @@ outside Belonging Engine von Avery Alder.
 
 ## Regelwerk
 
-<object data="/{{ id }}/beauty-in-chaos-v1-0.pdf" type="application/pdf" width="100%" height="800">alt text TODO</object>
+<object data="/{{ id }}/beauty-in-chaos-v1-0.pdf" type="application/pdf" width="100%" height="800"></object>
 
 ## Spielmaterial
 
-<object data="/{{ id }}/beauty-in-chaos-spielmaterial-v1-0.pdf" type="application/pdf" width="100%" height="800">alt text TODO</object>
+<object data="/{{ id }}/beauty-in-chaos-spielmaterial-v1-0.pdf" type="application/pdf" width="100%" height="800"></object>
 
 ## Downloads
 
