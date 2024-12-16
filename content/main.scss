@@ -203,3 +203,17 @@ footer {
     }
   }
 }
+
+// dark mode
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #222;
+    color: #eee;
+  }
+  a {
+    color: #eee;
+  }
+  footer, .badge {
+    background: #333;
+  }
+}

@@ -2,16 +2,7 @@
 layout: layouts/main.vto
 ---
 
-<div
-  style="
-    background-color: #fef2e2;
-    position: relative;
-    max-width: 80em;
-    margin-bottom: 1em;
-    display: flex;
-    flex-direction: column;
-  "
->
+<div id="ddd">
   <img
     src="/ddd/assets/corner.svg"
     id="corner"
@@ -56,12 +47,25 @@ layout: layouts/main.vto
 {{ /if }}
 
 <style>
+  #ddd {
+    background-color: #fef2e2;
+    position: relative;
+    max-width: 80em;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+  }
   @media (max-width: 1000px) {
     #content {
       flex-direction: column;
     }
     #corner {
       display: none;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    #ddd {
+      background-color: #1a1a1a;
     }
   }
 </style>
