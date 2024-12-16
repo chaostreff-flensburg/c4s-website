@@ -53,7 +53,7 @@ h6 {
 /* end of CSS reset */
 
 * {
-  font-family: Montserrat, sans-serif;
+  font-family: text, sans-serif;
   line-height: 1.8em;
 }
 
@@ -80,8 +80,8 @@ header {
     line-height: 1em;
     font-weight: bold;
     a {
+      font-family: display, sans-serif;
       line-height: 1em;
-      letter-spacing: -0.03em;
       text-decoration: none;
       &:hover {
         text-decoration: underline;

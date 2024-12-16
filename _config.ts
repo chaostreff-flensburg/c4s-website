@@ -20,8 +20,10 @@ site
   .use(sass())
   .use(
     googleFonts({
-      fonts:
-        "https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,400..900;1,400..900",
+      fonts: {
+        display: "https://fonts.google.com/share?selection.family=Patua+One",
+        text: "https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,400..900;1,400..900",
+      },
     }),
   )
   //.copy("media")
