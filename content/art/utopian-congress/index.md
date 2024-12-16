@@ -1,7 +1,7 @@
 ---
 title: utopian congress
 subtitle: Vision of a techno-utopian solarpunk community.
-medium: Illustration
+medium: illustration
 authors: foxitalic
 license: CC BY-SA 4.0
 id: utopian-congress

@@ -1,6 +1,6 @@
 ---
 title: Rupture/Remedy
-medium: Poetic video
+medium: poetic video
 authors: Rosemary Lee
 cover: cover.jpg
 license: CC BY-SA 4.0
@@ -11,6 +11,7 @@ intro: "Rupture/Remedy” addresses the viewer with a poetic apology for the cha
 de:
   subtitle: "(Dieser Untertitel ist nur auf Englisch verfügbar)"
   intro: "(Diese Einleitung ist nur auf Englisch verfügbar)"
+  medium: Poetisches Video
 ---
 
 {{ intro }}

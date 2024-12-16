@@ -5,7 +5,7 @@ license: CC BY-SA 4.0
 lang: [original, en, de]
 id: cubetopia
 subtitle: Build your own perfect future, one decision at a time.
-medium: Narrative art video game
+medium: narrative art video game
 de:
     subtitle: Erschaffe durch deine Entscheidungen deine eigene perfekte Zukunft.
     medium: Narratives künstlerisches Computerspiel

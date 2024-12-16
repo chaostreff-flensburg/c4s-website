@@ -1,7 +1,7 @@
 ---
 title: An improbable journey
 subtitle: A journey to the utopian year 2242! Roha, Tuxah and the scrap dealer accompany a visitor who is struggling with the improbability of his own appearance in the utopia.
-medium: Radio play
+medium: radio play
 authors: Mascha Schädlich, Björn Rzymann, Markus Saborowski
 license: CC BY-SA 4.0
 lang: en

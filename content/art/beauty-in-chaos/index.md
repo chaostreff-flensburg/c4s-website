@@ -1,7 +1,7 @@
 ---
 title: Beauty in Chaos
 subtitle: Players develop utopian visions and hopes together in order to transform technical dystopias into utopias.
-medium: Narrative role playing game
+medium: narrative role playing game
 authors: smettbo & naerrin
 license: CC BY-SA 4.0
 lang: en

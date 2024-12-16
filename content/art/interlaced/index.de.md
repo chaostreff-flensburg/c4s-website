@@ -1,7 +1,7 @@
 ---
 title: interlaced
 subtitle: Benutzt bla
-medium: Generative art
+medium: Generative Kunst
 authors: bleeptrack
 license: MIT
 lang: de
