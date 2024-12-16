@@ -7,9 +7,11 @@ license: CC BY-SA 4.0
 cover: cover.jpg
 id: the-great-rewilding
 lang: [original, en, de]
+alt: Photo of a green plant growing from underneath a human toenail
 de:
     medium: Kurzfilm
     subtitle: Ein Kind einer zukünftigen Zivilisation beschreibt, wie sich die Menschheit von einer technologischen, denaturierten Gesellschaft zu einer ganzheitlichen Gesellschaft entwickelt, indem sie sich mit Pflanzen und Pilzen verbindet.
+    alt: Foto einer grünen Pflanze, die unter einem menschlichen Fußnagel hervorwächst
 ---
 
 <video src="/{{ id }}/TheGreatRewilding_1080_5oct2024.mp4" controls>

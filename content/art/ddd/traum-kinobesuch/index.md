@@ -5,6 +5,7 @@ illustration: illustration.png
 id: ddd/traum-kinobesuch
 url: /ddd/dream-trip-to-the-movies/
 lang: en
+alt: Drawing of a movie ticket and a bucket of popcorn
 ---
 
 ![A cartoon with a total of 5 panels. The background colour is a dark pink.

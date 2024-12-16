@@ -6,6 +6,7 @@ authors: Jonas Laugs
 license: CC BY 4.0
 lang: [original, en]
 id: utopia-still
+alt: 3D scene (not animated) showing a street at sundown. In the distance there is a cityscape with lots of high-rise buildings with trees and greenery growing on them. The street has lots of green as well, tiny garden plots where maize and tomatoes are growing a, child is suspended in mid-air while jumping into a pool, cars have been repurposed to flower beds, there are wind turbines, solar panels and vertical gardens on the houses, some people are chilling in a cafe or reading on a bench
 ---
 
 <video src="/{{ id }}/UtopiaStill-06-Video-Flythrough-01.mp4" controls></video>

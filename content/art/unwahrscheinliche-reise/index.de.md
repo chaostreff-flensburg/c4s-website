@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 lang: [original, de]
 id: unwahrscheinliche-reise
 url: /improbable-journey/
+alt: TODO
 ---
 
 Komm mit uns auf eine Reise in das utopische Jahr 2242!

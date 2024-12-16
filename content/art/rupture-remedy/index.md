@@ -7,9 +7,11 @@ license: CC BY-SA 4.0
 lang: [original, en, de]
 id: rupture-remedy
 subtitle: A poetic apology for the chaotic unfairness of the world.
+alt: Turquoise-red streaks of color behind the title Rupture Remedy
 intro: "„Rupture/Remedy” addresses the viewer with a poetic apology for the chaotic unfairness of the world. Exploring the healing power of giving ourselves the time, space, and license to appreciate how difficult it can be to face the reality we exist within, the work seeks to bear witness to a growing sense of collective distress, irresolution, and futility. Working with appropriated video material, this piece considers how we might rethink our stance towards damage and repair. It presents a playfully utopian vision for the world, looking at how we can find hope, care, and beauty within the chaos."
 de:
   subtitle: Eine poetische Entschuldigung für die chaotische Ungerechtigkeit der Welt.
+  alt: Türkis-rote Farbschlieren hinter dem Titel Rupture Remedy
   intro: "„Rupture/Remedy“ wendet sich an den Betrachter mit einer poetischen Entschuldigung für die chaotische Ungerechtigkeit der Welt. Die Arbeit erforscht die heilende Kraft, die darin liegt, uns die Zeit, den Raum und die Erlaubnis zu geben, zu erkennen, wie schwierig es sein kann, der Realität ins Auge zu blicken, in der wir leben, und will Zeugnis ablegen von einem wachsenden Gefühl kollektiver Verzweiflung, Unentschlossenheit und Vergeblichkeit. Das Stück arbeitet mit angeeignetem Videomaterial und überlegt, wie wir unsere Haltung gegenüber Schäden und Reparaturen überdenken können. Es präsentiert eine spielerische, utopische Vision für die Welt und zeigt auf, wie wir im Chaos Hoffnung, Fürsorge und Schönheit finden können."
   medium: Poetisches Video
 ---

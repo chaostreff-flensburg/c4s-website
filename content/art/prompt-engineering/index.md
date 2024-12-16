@@ -7,9 +7,11 @@ id: prompt-engineering
 subtitle: "Voice messages in the future: six flickering frames per second, the light is gently psychedelic, text-based prompts create a hovering sociality. We'd call this a utopia."
 medium: short film
 license: CC BY-SA 4.0
+alt: A picture in black and white raster graphics. A poster reads Living in Utopia and contains a little heart. The poster is surrounded by purple lines.
 de:
     subtitle: "Sprachnachrichten in der Zukunft: sechs flackernde Frames pro Sekunde, die Lichtstimmungen sind sanft psychedelisch, textbasierte Prompts erzeugen eine hovernde Sozialität. Wir würden das als Utopie beschreiben."
     medium: Kurzfilm
+    alt: Ein Bild in schwarz-weißer Rastergrafik. Auf einem Plakat steht Living in Utopia, und ein Herzchen. Drumrum violette Striche.
 ---
 
 <video src="/{{ id }}/241127_PROMPT_ENGINEERING_ENGLISH_SUB_FINAL.mp4" controls></video>

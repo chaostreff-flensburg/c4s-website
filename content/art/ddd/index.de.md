@@ -3,6 +3,7 @@ title: Dis_Abled Disruption Drabbles
 subtitle: 10 Autor*innen, 10 Utopien, 10 Zukunftsvisionen aus dis_abled Perspektive in genau 100 Worten.
 medium: 10 × 100-Wort-Texte
 authors: Lena Richter, C. F. Srebalus, Sarah Baumgart, Nora Bendzko, Jamie-Lee Campbell, Jenny Cazzola, Carole Jenny Holzmann, Tanja Kollodzieyski, Britta Redweik, Daniela Schreiter, Noah Stoffers
+alt: Der Schriftzug Dis_abled disruption drabbles. In den Ecken sind Regenbogen-farbige abgerundete Streifen.
 license: CC BY-SA 4.0
 layout: layouts/art.vto
 category: art

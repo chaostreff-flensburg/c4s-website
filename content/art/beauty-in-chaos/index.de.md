@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 lang: [original, de]
 id: beauty-in-chaos
 url: /beauty-in-chaos/
+alt: "Zeichnung mit regenbogen-buntem Hintergrund. Sie zeigt eine aufrecht stehende Rakete, ein großes Zelt, einen Antennenmast, sowie die Schilder “Neuland” und “Don't Panic”. Darüber steht in bunten Buchstaben: Beauty in Chaos. Manche der Buchstaben sind dabei Leetspeak-artig durch Zahlen ersetzt."
 ---
 
 Irgendwann in der Zukunft: Eine künstliche Intelligenz – schlicht 'Algorithmus'

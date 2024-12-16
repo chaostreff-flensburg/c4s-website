@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 lang: [original, de]
 id: chaostopia
 url: /chaostopia/
+alt: "Ein Buch mit der Aufschrift: Coming Soon"
 ---
 
 ## Leseprobe

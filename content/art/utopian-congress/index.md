@@ -7,11 +7,12 @@ license: CC BY-SA 4.0
 id: utopian-congress
 url: /utopian-congress/
 lang: [original, en]
+alt: Bunte Zeichnung vieler Menschen auf einem großen Event.
 ---
 
-<img src="/utopian-congress/wimmelbild.png" />
+<img src="/utopian-congress/wimmelbild.png" alt="TODO" />
 
-<img src="/utopian-congress/back.png" />
+<img src="/utopian-congress/back.png" alt="TODO" />
 
 ## Downloads
 

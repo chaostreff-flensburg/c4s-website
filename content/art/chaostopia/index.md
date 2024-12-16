@@ -5,8 +5,8 @@ medium: novella
 authors: Klaudia 'jinxx' Zotzmann-Koch
 license: CC BY-SA 4.0
 lang: en
-en:
 id: chaostopia
+alt: "A book with the label: Coming Soon"
 ---
 
 (The novella is only available in German.)

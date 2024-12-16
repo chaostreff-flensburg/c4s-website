@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 lang: en
 id: beauty-in-chaos
 url: /beauty-in-chaos/
+alt: "Drawing with a rainbow-colored background. It shows a standing rocket, a large tent, an antenna mast and the signs ̈́“Neuland” and “Don't Panic”. Above it is written in colorful letters: Beauty in Chaos. Some of the letters are replaced by numbers in a Leetspeak-like manner."
 ---
 
 (The role playing game was written in German. The main rules and playing material were translated by sirenensang and eskarina.)

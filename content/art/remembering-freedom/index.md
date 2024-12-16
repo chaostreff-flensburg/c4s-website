@@ -5,9 +5,11 @@ medium: essay
 authors: John McNeil
 license: CC BY-SA 4.0
 lang: [original, en, de]
+alt: Drawing of a laptop, whose display shows the title Remembering Freedom
 de:
     medium: Essay
     subtitle: Ein Essay über die ersten 558 Jahre des Internets.
+    alt: Zeichnung eines Laptops, dessen Bildschirm den Titel Remembering Freedom zeigt
 id: remembering-freedom
 cover: cover.jpg
 ---

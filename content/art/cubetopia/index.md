@@ -6,9 +6,11 @@ lang: [original, en, de]
 id: cubetopia
 subtitle: Build your own perfect future, one decision at a time.
 medium: narrative art video game
+alt: Ein Screenshot von einem Computerspiel in futuristischer Wireframe-Optik. Ein Mensch steht auf einer breiten Straße umgeben von Bäumen. Darüber ein Sternenhimmel, eine Rakete, und der Titel Cubetopia. Das Logo sieht aus wie eine schematische Zeichnung eines Würfels.
 de:
     subtitle: Erschaffe durch deine Entscheidungen deine eigene perfekte Zukunft.
     medium: Narratives künstlerisches Computerspiel
+    alt: A screenshot from a computer game with a futuristic wireframe look. A person is standing on a wide road surrounded by trees. Above it, a starry sky, a rocket and the title Cubetopia. The logo looks like a schematic drawing of a cube.
 cover: cover.jpg
 ---
 

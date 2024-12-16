@@ -4,6 +4,7 @@ author: Daniela Schreiter
 illustration: illustration.png
 id: ddd/traum-kinobesuch
 url: /ddd/traum-kinobesuch/
+alt: Zeichnung von einer Kino-Eintrittskarte und einem Eimer Popcorn
 ---
 
 ![Ein Comic mit insgesamt 5 Panels. Die Hintergrundarbe ist überall ein dunkles Pink.
