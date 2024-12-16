@@ -12,4 +12,6 @@ de:
     subtitle: Ein Kind einer zukünftigen Zivilisation beschreibt, wie sich die Menschheit von einer technologischen, denaturierten Gesellschaft zu einer ganzheitlichen Gesellschaft entwickelt, indem sie sich mit Pflanzen und Pilzen verbindet.
 ---
 
-<video src="/{{ id }}/TheGreatRewilding_1080_5oct2024.mp4" controls></video>
+<video src="/{{ id }}/TheGreatRewilding_1080_5oct2024.mp4" controls>
+<track label="English" kind="subtitles" srclng="en" src="/{{ id }}/the_great_rewilding.vtt" default />
+</video>
