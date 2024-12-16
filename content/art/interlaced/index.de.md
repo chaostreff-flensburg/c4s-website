@@ -1,6 +1,6 @@
 ---
 title: interlaced
-subtitle: Benutzt bla
+subtitle: Benutzt Muster von ineinander verwobenen Pflanzen und Kabeln, um spielerisch zu zeigen, dass Technologie und Natur in Harmonie koexistieren können.
 medium: Generative Kunst
 authors: bleeptrack
 license: MIT
@@ -13,7 +13,7 @@ url: /interlaced/
 
 <iframe src="https://interlaced.bleeptrack.de" width="100%" height="500" ></iframe>
 
-The artworks created by the generator are released under CC0.
+Die Kunstwerke, die der Generator produziert werden unter der CC0-Lizenz veröffentlicht.
 
 ## Links
 
