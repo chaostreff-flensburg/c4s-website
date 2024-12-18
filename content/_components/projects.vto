@@ -2,7 +2,7 @@
   {{ for page of search.pages(`category=art lang=${lang}`, "id") }}
   <div class="box">
     <a href="{{ page.url }}">
-      <img src="{{ page.id ? `/${page.id}/` : page.url }}{{ page.cover || "cover.png" }}" alt="{{ page.alt }}" title="{{ page.alt }}" />
+      <img src="{{ page.id ? `/${page.id}/` : page.url }}{{ page.cover || "cover.webp" }}" alt="{{ page.alt }}" title="{{ page.alt }}" />
       <h2>{{ page.title }}</h2>
       <h3>{{ page.authors }}</h3>
       <p><span class="badge">{{ page.medium }}</span><br />{{ page.subtitle }}</p>

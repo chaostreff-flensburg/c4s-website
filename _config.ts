@@ -29,7 +29,17 @@ site
   //.copy("media")
   //.copy("assets", ".")
   //.copy("main.js")
-  .copy([".jpg", ".png", ".pdf", ".svg", ".mp3", ".zip", ".mp4", ".vtt"])
+  .copy([
+    ".jpg",
+    ".png",
+    ".webp",
+    ".pdf",
+    ".svg",
+    ".mp3",
+    ".zip",
+    ".mp4",
+    ".vtt",
+  ])
   .remoteFile(
     "cubetopia/Cubetopia_1.04_Mac.zip",
     `${bigFileServer}/Cubetopia_1.04_Mac.zip`,

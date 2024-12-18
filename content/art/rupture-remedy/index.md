@@ -2,7 +2,6 @@
 title: Rupture/Remedy
 medium: poetic video
 authors: Rosemary Lee
-cover: cover.jpg
 license: CC BY-SA 4.0
 lang: [original, en, de]
 id: rupture-remedy

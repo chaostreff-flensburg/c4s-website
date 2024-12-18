@@ -3,7 +3,7 @@ title: interlaced
 subtitle: Uses interwoven patterns of plants and cables to playfully demonstrate that technology and nature can coexist in harmony.
 medium: generative art
 authors: bleeptrack
-alt: TODO
+alt: An interwoven pattern of white, red and blue lines. Some end in leaves, others in VGA plugs.
 license: MIT
 id: interlaced
 url: /interlaced/

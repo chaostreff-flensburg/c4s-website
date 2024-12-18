@@ -3,7 +3,7 @@ title: interlaced
 subtitle: Benutzt Muster von ineinander verwobenen Pflanzen und Kabeln, um spielerisch zu zeigen, dass Technologie und Natur in Harmonie koexistieren können.
 medium: Generative Kunst
 authors: bleeptrack
-alt: TODO
+alt: Ein verflochtenes Muster von weißen, roten und blauen Linien. Manche enden in Blättern, andere in VGA-Steckern.
 license: MIT
 lang: de
 id: interlaced

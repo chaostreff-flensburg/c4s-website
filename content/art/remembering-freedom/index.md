@@ -11,7 +11,6 @@ de:
     subtitle: Ein Essay über die ersten 558 Jahre des Internets.
     alt: Zeichnung eines Laptops, dessen Bildschirm den Titel Remembering Freedom zeigt
 id: remembering-freedom
-cover: cover.jpg
 ---
 
 Cover image by [Kat Aymeloglu](https://www.kataymeloglu.com).

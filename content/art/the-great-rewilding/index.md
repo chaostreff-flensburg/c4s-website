@@ -4,7 +4,6 @@ subtitle: A child of a future civilization describes how humanity transitioned f
 medium: short film
 authors: Brendan Howell, Sonja Nilsson
 license: CC BY-SA 4.0
-cover: cover.jpg
 id: the-great-rewilding
 lang: [original, en, de]
 alt: Photo of a green plant growing from underneath a human toenail
