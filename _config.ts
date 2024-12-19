@@ -37,20 +37,29 @@ site
     ".svg",
     ".mp3",
     ".zip",
+    ".apk",
     ".mp4",
     ".vtt",
   ])
   .remoteFile(
-    "cubetopia/Cubetopia_1.04_Mac.zip",
-    `${bigFileServer}/Cubetopia_1.04_Mac.zip`,
+    "cubetopia/Cubetopia_1.05_Mac.zip",
+    `${bigFileServer}/Cubetopia_1.05_Mac.zip`,
   )
   .remoteFile(
-    "cubetopia/Cubetopia_1.04_Linux.zip",
-    `${bigFileServer}/Cubetopia_1.04_Linux.zip`,
+    "cubetopia/Cubetopia_1.05_Linux.zip",
+    `${bigFileServer}/Cubetopia_1.05_Linux.zip`,
   )
   .remoteFile(
-    "cubetopia/Cubetopia_1.04_Win.zip",
-    `${bigFileServer}/Cubetopia_1.04_Win.zip`,
+    "cubetopia/Cubetopia_1.05_Win.zip",
+    `${bigFileServer}/Cubetopia_1.05_Win.zip`,
+  )
+  .remoteFile(
+    "cubetopia/Cubetopia_1.05_Android.apk",
+    `${bigFileServer}/Cubetopia_1.05_Android.apk`,
+  )
+  .remoteFile(
+    "cubetopia/Cubetopia_1.04t_Web.zip",
+    `${bigFileServer}/Cubetopia_1.04t_Web.zip`,
   )
   .remoteFile(
     "rupture-remedy/Lee, Rupture, Remedy.mp4",
