@@ -10,9 +10,9 @@ lang: de
 alt: Bunte Zeichnung vieler Menschen auf einem großen Event.
 ---
 
-<img src="/utopian-congress/wimmelbild.png" alt="TODO" />
+<a href="/{{ id }}/wimmelbild.png"><img src="/{{ id }}/wimmelbild.webp" alt="TODO" /></a>
 
-<img src="/utopian-congress/back.png" alt="TODO" />
+<a href="/{{ id }}/back.png"><img src="/{{ id }}/back.webp" alt="TODO" /></a>
 
 ## Downloads
 
