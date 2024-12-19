@@ -13,7 +13,10 @@
   <body>
     <header>
       {{ set index = search.page('id=index lang=' + lang) }}
-      <h1><a href="{{ index.url }}" >Call for Stories</a></h1>
+      <h1>
+        <a href="{{ index.url }}" >Call for Stories</a>
+        <img src="/favicon.svg" alt="A logo of an S in a speech bubble" />
+      </h1>
 
       <ul class="languages">
       {{ for alt of alternates }}
