@@ -10,6 +10,8 @@ url: /beauty-in-chaos/
 alt: "Zeichnung mit regenbogen-buntem Hintergrund. Sie zeigt eine aufrecht stehende Rakete, ein großes Zelt, einen Antennenmast, sowie die Schilder “Neuland” und “Don't Panic”. Darüber steht in bunten Buchstaben: Beauty in Chaos. Manche der Buchstaben sind dabei Leetspeak-artig durch Zahlen ersetzt."
 ---
 
+Projekt-Webseite: <https://beauty-in-chaos.de>
+
 Irgendwann in der Zukunft: Eine künstliche Intelligenz – schlicht 'Algorithmus'
 genannt – hat das Denken für die Menschheit übernommen. In der totalen
 Überwachung geht es nur noch um Fortschritt und ein genormtes Leben nach
@@ -48,5 +50,4 @@ outside Belonging Engine von Avery Alder.
 
 - [Regelbuch Version 1.0 (PDF)](/{{ id }}/beauty-in-chaos-v1-0.pdf)
 - [Spielmaterial Version 1.0 (PDF)](/{{ id }}/beauty-in-chaos-spielmaterial-v1-0.pdf)
-
-- Projekt-Webseite: <https://beauty-in-chaos.de>
+- [Virtual tabletop-Material](/{{ id }}/beauty-in-chaos-vtt-material.zip) (Hintergrundbilder, Token und Safety Cards für virtuelle Spieltische)

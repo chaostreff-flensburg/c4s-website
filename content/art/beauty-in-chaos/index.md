@@ -10,8 +10,9 @@ url: /beauty-in-chaos/
 alt: "Drawing with a rainbow-colored background. It shows a standing rocket, a large tent, an antenna mast and the signs ̈́“Neuland” and “Don't Panic”. Above it is written in colorful letters: Beauty in Chaos. Some of the letters are replaced by numbers in a Leetspeak-like manner."
 ---
 
-(The role playing game was written in German. The main rules and playing material were translated by sirenensang and eskarina.)
+(The role playing game was written in German. The playing material were translated by sirenensang and eskarina.)
 
+Project webseite: <https://beauty-in-chaos.de>
 
 Sometime in the future, an artificial intelligence - known simply as 'algorithm' -
 has taken over thinking for mankind. The total
@@ -41,15 +42,16 @@ outside Belonging Engine by Avery Alder.
 
 ## Rulebook
 
+(Only available in German, but see "game material" below!)
+
 <object data="/{{ id }}/beauty-in-chaos-v1-0.pdf" type="application/pdf" width="100%" height="800"></object>
 
-## Spielmaterial
+## Game material
 
-<object data="/{{ id }}/beauty-in-chaos-spielmaterial-v1-0.pdf" type="application/pdf" width="100%" height="800"></object>
+<object data="/{{ id }}/beauty-in-chaos-game-material-v1-0.pdf" type="application/pdf" width="100%" height="800"></object>
 
 ## Downloads
 
-- [Regelbuch Version 1.0 (PDF)](/{{ id }}/beauty-in-chaos-v1-0.pdf)
-- [Spielmaterial Version 1.0 (PDF)](/{{ id }}/beauty-in-chaos-spielmaterial-v1-0.pdf)
-
-- Projekt-Webseite: <https://beauty-in-chaos.de>
+- [Rulebook version 1.0 (German, PDF)](/{{ id }}/beauty-in-chaos-v1-0.pdf)
+- [Game material version 1.0 (PDF)](/{{ id }}/beauty-in-chaos-game-material-v1-0.pdf)
+- [Virtual tabletop material](/{{ id }}/beauty-in-chaos-vtt-material.zip) (background images, token and safety cards)
