@@ -23,4 +23,5 @@ Ineinander verschlungen. Hand in Hand.
 Über C. F. Srebalus
 
 C. F. Srebalus, Jahrgang 1987, ist Illustratorin und Requisiteurin. Schreiben und Malen ist für sie eins. Ihre Fibromyalgie-Erkrankung fließt oft unterschwellig in Texte und Bilder mit ein.
-Mehr auf www.cfsrebalus.de oder auf Social Media.
+
+Mehr auf www.cfsrebalus.de oder auf Social Media als c.f.srebalus oder c.f.srebalus_schreibt

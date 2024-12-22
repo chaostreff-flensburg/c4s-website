@@ -1,6 +1,6 @@
 ---
 title: Fucking Butterfly
-author: Sarah Baumgart
+author: Jamie-Lee Campbell
 alt: A blossom drawn in grey, from which a blue butterfly drinks nectar. 
 id: ddd/fucking-schmetterling
 url: /ddd/fucking-butterfly/
@@ -13,4 +13,4 @@ lang: en
 
 About Jamie-Lee Campbell
 
-Jamie-Lee Campbell (she/her), likes to asks questions in essays, for example "Why does JAMES BOND run around naked in a world full of concrete PENISES?" (published in Queer*Welten 12), is currently learning to write SF/Weird Fiction short stories and is still looking for the perfect place for her hammock. (Insta: momo_in_berlin)
+Jamie-Lee Campbell (she/her), likes to asks questions in essays, for example "Why does JAMES BOND run around naked in a world full of concrete PENISES?" (published in Queer\*Welten 12), is currently learning to write SF/Weird Fiction short stories and is still looking for the perfect place for her hammock. (Insta: momo_in_berlin)

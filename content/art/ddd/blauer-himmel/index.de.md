@@ -8,11 +8,11 @@ url: /ddd/blauer-himmel/
 
 Durch das Bahnfenster Menschen. Verschwommen, zwischen Erschöpfung und Glück und noch nicht richtig begreifen können. In Deborahs Kopf noch die Worte „Im Namen des Volkes“ und die entfernte Angst davor, irgendwo hinzusehen, um den Rest zu verstehen. Dann der Satz von den Mitschreibleuten. Über allem und allen.
 
-Stationen und Menschen. Die schwarze Flagge mit den bunten Streifen. Der Himmel ist blau, denkt Deborah. Ein altes Lied, aber es stimmt. Im Kopf das, was vorher war, das Harte vor „Im Namen des Volkes“.
+Stationen und Menschen. Die schwarze Flagge mit den bunten Streifen. *Der Himmel ist blau*, denkt Deborah. Ein altes Lied, aber es stimmt. Im Kopf das, was vorher war, das Harte vor „Im Namen des Volkes“.
 
 Irgendwann der Newsscreen: „Ableist wegen behindertenfeindlicher Taten zu vier Jahren Haft verurteilt.“
 
-Deborah lacht. Der Himmel ist blau.
+Deborah lacht. *Der Himmel ist blau.*
 
 ---
 
