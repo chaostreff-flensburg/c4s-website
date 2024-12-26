@@ -12,27 +12,14 @@ de:
     alt: Zeichnung eines Laptops, dessen Bildschirm den Titel Remembering Freedom zeigt
 id: remembering-freedom
 ---
-Essay by [John McNeil](https://www.johnmcneil.me/writing)
-
-Cover image by [Kat Aymeloglu](https://www.kataymeloglu.com).
+Essay by [John McNeil](https://www.johnmcneil.me/writing). Cover image by [Kat Aymeloglu](https://www.kataymeloglu.com).
 
 ## Downloads
 
 - [PDF](/{{ id }}/Remembering%20Freedom.pdf)
 - [EPUB](/{{ id }}/Remembering%20Freedom.epub)
 
-## Contents
-- [Hello from Nowhere](#hello-from-nowhere)
-- [The Early Internet](#the-early-internet)
-- [2050-2100](#2050-2100)
-- [2100s](#2100s)
-- [2200s](#2200s)
-- [2300s](#2300s)
-- [2400s](#2400s)
-- [2532](#2532)
-- [Bibliography](#bibliography)
-
-## Text
+## Content
 
 I’m from the future and your internet is <em>awful</em>.
 
