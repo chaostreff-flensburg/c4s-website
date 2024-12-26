@@ -10,6 +10,11 @@ url: /2042-die-verbotene-bibliothek/
 alt: "Ein Buch, dessen Einband den Titel zeigt. Der Einband sieht aus wie eine Leihkarte aus einer alten Bibliothek. Der letzte Eintrag stammt aus dem Jahr 2042."
 ---
 
+## Download (komplette Novella):
+
+- [PDF](/{{ id }}/Chaostopia2042_Community.pdf)
+- [ePUB](/{{ id }}/Chaostopia2042_Community.epub)
+
 ## Leseprobe
 
 Piniengeruch mischte sich in die Stadtluft, herüber geweht vom Vertical Forest zwei Straßenecken weiter. Emma setzte den Fuß auf das Rasengitter außerhalb des Gerichtsgebäudes. Es war der erste Schritt in eine bessere Welt – an einem dieser Tage, nach denen nichts mehr so war, wie zuvor. Einer der Tage, an denen es ein Luxus war, fünf Sekunden die Augen zu schließen, zu atmen und einfach nur zu existieren.  

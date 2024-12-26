@@ -34,6 +34,7 @@ site
     ".png",
     ".webp",
     ".pdf",
+    ".epub",
     ".svg",
     ".mp3",
     ".zip",
