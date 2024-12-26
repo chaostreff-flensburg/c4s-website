@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/fonts.css" />
+    <link rel="stylesheet" href="/main.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/xvg+xml" href="/favicon.svg" />
+  </head>
+
+  <body>
+    <header>
+      {{ set index = search.page('id=index lang=' + lang) }}
+      <h1>
+        <a href="{{ index.url }}" >Call for Stories</a>
+        <img src="/favicon.svg" alt="A logo of an S in a speech bubble" />
+      </h1>
+
+      <ul class="languages">
+      {{ for alt of alternates }}
+        <li>
+          <a href="{{ alt.url }}" {{ if alt.lang == lang }}aria-current="page"{{ /if }}>
+            {{ alt.lang }}
+          </a>
+        </li>
+      {{ /for }}
+      </ul>
+    </header>
+    <main>{{ content }}</main>
+  </body>
+
+  <footer>
+    <span>{{ project_of_string }} <a href="https://ccc.de/" target="_blank">Chaos Computer Club e.V.</a></span>
+    <span
+      ><a href="{{ imprint_url }}" target="_blank"> {{ imprint_string }} </a> &
+      <a href="{{ privacy_url }}" target="_blank">
+        {{ privacy_string }}</a></span
+    >
+    <a rel="me" href="https://chaos.social/@callforstories" target="_blank">
+      Mastodon</a
+    >
+  </footer>
+</html>

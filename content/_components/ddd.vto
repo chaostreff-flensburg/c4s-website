@@ -1,0 +1,15 @@
+<div id="boxes">
+  {{ for page of search.pages(`category=ddd lang=${lang}`, "id") }}
+  <div class="box">
+    <a href="{{ search.page(`id=${page.id} lang=${lang}`).url }}">
+      <img
+        src="/{{ page.id }}/{{ page.illustration || 'illustration.svg' }}"
+        alt="{{ page.alt }}"
+        title="{{ page.alt }}"
+      />
+      <h2>{{ page.title }}</h2>
+      <h3>{{ page.author }}</h3>
+    </a>
+  </div>
+  {{ /for }}
+</div>

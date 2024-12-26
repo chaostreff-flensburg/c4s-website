@@ -1,0 +1,71 @@
+---
+layout: layouts/main.vto
+---
+
+<div id="ddd">
+  <img
+    src="/ddd/assets/corner.svg"
+    id="corner"
+    style="position: absolute; top: 0; right: 0"
+  />
+
+  <div style="margin: 2em">
+    <h1>{{ title }}</h1>
+    <h2>{{ by_string }} {{ author }}</h2>
+
+    {{ if lang != "en" }}
+    <audio src="/{{ id }}/audio.mp3" controls></audio>
+    {{ /if }}
+
+    <div id="content" style="display: flex">
+      <div>{{ content }}</div>
+
+      {{ if !illustration}}
+      <img
+        src="/{{ id }}/illustration.svg"
+        alt="{{ alt }}"
+        title="{{ alt }}"
+        style="float: right"
+      />
+      {{ /if }}
+    </div>
+  </div>
+
+  <div
+    style="
+      background-image: url(/ddd/assets/footer.svg);
+      width: 100%;
+      height: 66px;
+    "
+  ></div>
+</div>
+
+{{ if lang == "en" }}
+<p>↩️ Back to the <a href="..">Dis_Abled Disruption Drabbles</a></p>
+{{ else }}
+<p>↩️ Zurück zu den <a href="..">Dis_Abled Disruption Drabbles</a></p>
+{{ /if }}
+
+<style>
+  #ddd {
+    background-color: #fef2e2;
+    position: relative;
+    max-width: 80em;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+  }
+  @media (max-width: 1000px) {
+    #content {
+      flex-direction: column;
+    }
+    #corner {
+      display: none;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    #ddd {
+      background-color: #1a1a1a;
+    }
+  }
+</style>
