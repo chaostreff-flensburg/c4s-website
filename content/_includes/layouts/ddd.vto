@@ -18,8 +18,18 @@ layout: layouts/main.vto
     {{ /if }}
 
     <div id="content" style="display: flex">
-      <div>{{ content }}</div>
-
+      <div>{{ content }}
+      {{ if footnotes.length }}
+  <ol>
+    {{ for note of footnotes }}
+    <li id={{ note.id }}>
+      {{ note.content }}
+    </li>
+    {{ /for }}
+  </ol>  
+  {{ /if }}
+      </div>
+      
       {{ if !illustration}}
       <img
         src="/{{ id }}/illustration.svg"

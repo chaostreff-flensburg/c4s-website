@@ -2,10 +2,12 @@ import lume from "lume/mod.ts";
 import sass from "lume/plugins/sass.ts";
 import multilanguage from "lume/plugins/multilanguage.ts";
 import googleFonts from "lume/plugins/google_fonts.ts";
+import footnotes from "lume_markdown_plugins/footnotes.ts";
 
 const site = lume({
   src: "./content",
-});
+})
+.use(footnotes());
 
 // We store files > 100 MB here so that we can keep the repository on GitHub.
 const bigFileServer = "https://files.blinry.org/cfs";
